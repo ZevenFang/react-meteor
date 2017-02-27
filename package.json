@@ -1,0 +1,23 @@
+{
+  "name": "react-web-meteor",
+  "version": "0.0.1",
+  "description": "Meteor Reactivity for your React application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zevenfang/react-meteor.git"
+  },
+  "keywords": [
+    "react",
+    "meteor"
+  ],
+  "author": "Zeven Fang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zevenfang/react-meteor/issues"
+  },
+  "homepage": "https://github.com/zevenfang/react-meteor#readme"
+}
