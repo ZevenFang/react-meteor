@@ -12,13 +12,6 @@ The purpose of this library is :
 
     npm i --save react-web-meteor
 
-[!! See detailed installation guide](https://github.com/inProgress-team/react-web-meteor/blob/master/docs/Install.md)
-
-## Install from Git
-Sometimes we do not have time to update the version of the NPM package. In this case, you can use the latest version from the repository.
-
-    npm i --save https://github.com/inProgress-team/react-web-meteor
-
 ## Example usage
 
 ```javascript
