@@ -1,4 +1,6 @@
 # react-meteor
+![build](https://travis-ci.org/ZevenFang/react-meteor.svg?branch=master)
+
 Meteor Reactivity for your React application :).
 
 ## What is it for ?
