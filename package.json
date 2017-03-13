@@ -1,6 +1,6 @@
 {
   "name": "react-web-meteor",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Meteor Reactivity for your React application",
   "main": "index.js",
   "scripts": {
