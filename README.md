@@ -1,7 +1,9 @@
 # react-meteor
 ![build](https://travis-ci.org/ZevenFang/react-meteor.svg?branch=master)
 
-Meteor Reactivity for your React application :).
+Meteor Reactivity for your React application :)
+
+Looking for a demo? Try to check out [react-meteor-todomvc](https://github.com/ZevenFang/react-meteor-todomvc).
 
 ## What is it for ?
 
